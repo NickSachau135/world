@@ -1,0 +1,1 @@
+print("Fuel Amount: " .. turtle.getFuelLevel())

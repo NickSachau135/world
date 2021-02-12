@@ -1,0 +1,1 @@
+print(peripheral.isPresent())
